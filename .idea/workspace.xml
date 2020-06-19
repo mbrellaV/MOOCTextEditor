@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f828862-0b58-4e4f-af09-27e9e69dbebc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZU1mGvpSjVe92ch7siaZH6tMWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.MainApp" />
+      <module name="MOOCTextEditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NearbyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spelling.NearbyWords" />
+      <module name="MOOCTextEditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spelling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NearbyWordsGraderOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spelling.NearbyWordsGraderOne" />
+      <module name="MOOCTextEditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spelling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NearbyWordsGraderTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spelling.NearbyWordsGraderTwo" />
+      <module name="MOOCTextEditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spelling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoCompleteDictionaryTrieTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MOOCTextEditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spelling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spelling" />
+      <option name="MAIN_CLASS_NAME" value="spelling.AutoCompleteDictionaryTrieTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.NearbyWordsGraderTwo" />
+        <item itemvalue="Application.NearbyWordsGraderOne" />
+        <item itemvalue="Application.NearbyWords" />
+        <item itemvalue="JUnit.AutoCompleteDictionaryTrieTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f828862-0b58-4e4f-af09-27e9e69dbebc" name="Default Changelist" comment="" />
+      <created>1584879015653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584879015653</updated>
+      <workItem from="1584879023117" duration="1180000" />
+      <workItem from="1584884402591" duration="758000" />
+      <workItem from="1584885314908" duration="7350000" />
+      <workItem from="1584902505532" duration="101000" />
+      <workItem from="1584913596137" duration="2068000" />
+      <workItem from="1584957776701" duration="7278000" />
+      <workItem from="1585246789608" duration="4317000" />
+      <workItem from="1585324410647" duration="3294000" />
+      <workItem from="1585410855161" duration="336000" />
+      <workItem from="1585412747477" duration="977000" />
+      <workItem from="1585419187078" duration="374000" />
+      <workItem from="1585421504061" duration="1818000" />
+      <workItem from="1585459466452" duration="4538000" />
+      <workItem from="1585480439763" duration="5062000" />
+      <workItem from="1585491134208" duration="2499000" />
+      <workItem from="1585650173031" duration="3994000" />
+      <workItem from="1585665853509" duration="1809000" />
+      <workItem from="1585672110439" duration="71000" />
+      <workItem from="1585678060763" duration="602000" />
+      <workItem from="1585685804839" duration="674000" />
+      <workItem from="1585731366346" duration="5344000" />
+      <workItem from="1585742888442" duration="7464000" />
+      <workItem from="1586082779429" duration="602000" />
+      <workItem from="1586527078644" duration="1578000" />
+      <workItem from="1586534266465" duration="2919000" />
+      <workItem from="1586539380753" duration="5862000" />
+      <workItem from="1586862729982" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="821" y="249" key="#MyLinkedListTester" timestamp="1585423371895">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="821" y="249" key="#MyLinkedListTester/0.0.1920.1080@0.0.1920.1080" timestamp="1585423371895" />
+    <state x="872" y="182" width="952" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585747103348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="872" y="182" width="952" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585747103348" />
+    <state x="1084" y="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586543650444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1084" y="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586543650444" />
+    <state x="1072" y="471" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584879265695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1072" y="471" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584879265695" />
+    <state x="930" y="323" key="FileChooserDialogImpl" timestamp="1584895985290">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="930" y="323" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584895985290" />
+    <state width="1092" height="328" key="GridCell.Tab.0.bottom" timestamp="1586548545837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545837" />
+    <state width="1092" height="328" key="GridCell.Tab.0.center" timestamp="1586548545837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545837" />
+    <state width="1092" height="328" key="GridCell.Tab.0.left" timestamp="1586548545837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545837" />
+    <state width="1092" height="328" key="GridCell.Tab.0.right" timestamp="1586548545837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545837" />
+    <state width="1092" height="328" key="GridCell.Tab.1.bottom" timestamp="1586548545838">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545838" />
+    <state width="1092" height="328" key="GridCell.Tab.1.center" timestamp="1586548545838">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545838" />
+    <state width="1092" height="328" key="GridCell.Tab.1.left" timestamp="1586548545837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545837" />
+    <state width="1092" height="328" key="GridCell.Tab.1.right" timestamp="1586548545838">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1092" height="328" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586548545838" />
+    <state x="704" y="156" key="SettingsEditor" timestamp="1585460153099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="704" y="156" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585460153099" />
+    <state x="920" y="406" key="com.intellij.ide.util.TipDialog" timestamp="1586862729872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="920" y="406" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586862729872" />
+    <state x="928" y="475" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585460146912">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="928" y="475" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1585460146912" />
+    <state x="855" y="127" width="737" height="909" key="find.popup" timestamp="1584970237927">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="855" y="127" width="737" height="909" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584970237927" />
+    <state x="685" y="202" key="new project wizard" timestamp="1586862749114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="202" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586862749114" />
+  </component>
+</project>
